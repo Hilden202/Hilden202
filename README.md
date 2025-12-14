@@ -65,12 +65,22 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 ---
 
-
 <h2 align="left">🐍 Contribution Snake</h2>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/Hilden202/Hilden202/output/snake.svg" alt="Snake animation"/>
-</p>
+<div align="center" style="
+  padding: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-radius: 16px;
+  background: #020617;
+  border: 1px solid #0f172a;
+">
+  <img
+    src="https://raw.githubusercontent.com/Hilden202/Hilden202/output/snake.svg"
+    alt="Snake animation"
+    style="max-width: 100%; border-radius: 12px;"
+  />
+</div>
 
 ---
 
