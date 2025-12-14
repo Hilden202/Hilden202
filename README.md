@@ -115,3 +115,11 @@ Git, GitHub, GitHub Actions, Docker, Azure
 Outside of coding, I enjoy exploring physics, creating music, and experimenting with new ideas under the HildenMedia umbrella.<br>
 Always learning, always building.
 </p>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hilden202.hilden202&"  />
+</div>
+
+---
