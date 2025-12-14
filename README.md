@@ -66,11 +66,17 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 ---
 
-</p>## 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hilden202/Hilden202/output/snake.svg?palette=dracula" width="800" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/hilden202/hilden202/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/hilden202/hilden202/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+       src="https://raw.githubusercontent.com/hilden202/hilden202/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
