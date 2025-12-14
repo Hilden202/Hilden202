@@ -67,11 +67,17 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/din-länk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
+  </a>
+  <a href="https://discord.gg/din-server" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/hildenmedia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" />
+  </a>
+</p>
 
 ###
 
@@ -84,7 +90,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://hildenmedia.se/images/hilden_media_logo_meta.jpg"  />
+  <a href="https://hildenmedia.se" target="_blank">
+    <img height="200" src="https://hildenmedia.se/images/hilden_media_logo_meta.jpg" alt="HildenMedia logo"/>
+  </a>
 </div>
 
 ###
