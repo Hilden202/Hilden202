@@ -1,4 +1,5 @@
 <h2 align="left">👋 Hi, I'm Patrik — builder of things</h2>
+<h4 align="left">.NET developer • Fullstack • DevOps explorer • Creator of HildenMedia</h4>
 
 <p align="left">
 System developer student turning real ideas into real software.<br>
@@ -57,6 +58,21 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 </div>
 
 ---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hilden202&theme=dracula)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hilden202&theme=dracula)
+
+---
+
+<h2 align="left">📈 Recent GitHub Activity</h2>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hilden202&theme=dracula&area=true&hide_border=false)
+
+---
+
 
 <h2 align="left">🐍 Contribution Snake</h2>
 
