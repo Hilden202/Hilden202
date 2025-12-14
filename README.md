@@ -59,14 +59,6 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hilden202&theme=dracula)
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hilden202&theme=dracula)
-
----
-
 <h2 align="left">📈 Recent GitHub Activity</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hilden202&theme=dracula&area=true&hide_border=false)
