@@ -1,15 +1,24 @@
-<p align="left">
-### 👋 Hi, I'm Patrik — builder of things<br><br>System developer student turning real ideas into real software.<br>I build fullstack .NET solutions, APIs, automations, and personal tools — always learning, always improving.<br>Currently crafting my own ecosystem of apps under HildenMedia.</p>
+<h2 align="left">👋 Hi, I'm Patrik — builder of things</h2>
 
 ###
 
-<p align="left">
-### 🔧 What I'm working on right now<br><br>- SarasBlogg – Fullstack .NET project with API, PostgreSQL, roles, AI moderation and CI/CD<br><br>- BulletHell Space Shooter – A MonoGame project with tests, configs, tools and clean architecture<br><br>- HildenMedia – My personal dev brand, logo system & upcoming site redesign<br><br>- Experimenting with AI-driven developer agents & automation tools</p>
+<p align="left">System developer student turning real ideas into real software.<br>I build fullstack .NET solutions, APIs, automations, and personal tools — always learning, always improving.<br>Currently crafting my own ecosystem of apps under HildenMedia.</p>
 
 ###
 
-<p align="left">
-### 🛠️ Tech Stack<br><br>**Backend:**  <br>C#, .NET, Entity Framework Core, REST APIs, SQL Server, PostgreSQL, MongoDB<br><br>**Frontend:**  <br>HTML, CSS, JavaScript, Razor Pages, MAUI<br><br>**Tools & DevOps:**  <br>Git, GitHub, GitHub Actions, Docker, Azure</p>
+<h2 align="left">🔧 What I'm working on right now</h2>
+
+###
+
+<p align="left">- SarasBlogg – Fullstack .NET project with API, PostgreSQL, roles, AI moderation and CI/CD<br><br>- BulletHell Space Shooter – A MonoGame project with tests, configs, tools and clean architecture<br><br>- HildenMedia – My personal dev brand, logo system & upcoming site redesign<br><br>- Experimenting with AI-driven developer agents & automation tools</p>
+
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
+
+###
+
+<p align="left">**Backend:**  <br>C#, .NET, Entity Framework Core, REST APIs, SQL Server, PostgreSQL, MongoDB<br><br>**Frontend:**  <br>HTML, CSS, JavaScript, Razor Pages, MAUI<br><br>**Tools & DevOps:**  <br>Git, GitHub, GitHub Actions, Docker, Azure</p>
 
 ###
 
@@ -66,8 +75,11 @@
 
 ###
 
-<p align="left">
-### ✨ About me<br><br>Outside of coding, I enjoy exploring physics, creating music, and experimenting with new ideas under the HildenMedia umbrella.  <br>Always learning, always building.</p>
+<h2 align="left">✨ About me</h2>
+
+###
+
+<p align="left">Outside of coding, I enjoy exploring physics, creating music, and experimenting with new ideas under the HildenMedia umbrella.  <br>Always learning, always building.</p>
 
 ###
 
