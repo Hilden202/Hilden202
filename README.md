@@ -31,6 +31,7 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MonoGame-BA2F2F?style=for-the-badge&logo=monogame&logoColor=white" />
 <br><br>
 
 <strong>Frontend:</strong><br>
@@ -69,7 +70,7 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Hilden202/Hilden202/output/snake.svg"
+    src="https://raw.githubusercontent.com/Hilden202/Hilden202/output/snake.svg?update=1"
     alt="Snake animation"
     width="800"
   />
