@@ -27,11 +27,11 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 <strong>Backend:</strong><br>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/MonoGame-BA2F2F?style=for-the-badge&logo=monogame&logoColor=white" />
 <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MonoGame-BA2F2F?style=for-the-badge&logo=monogame&logoColor=white" />
 <br><br>
 
 <strong>Frontend:</strong><br>
