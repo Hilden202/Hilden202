@@ -69,11 +69,9 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    <img src="https://raw.githubusercontent.com/hilden202/hilden202/output/snake.svg" alt="Snake animation" />
-    alt="Snake animation"
-    width="800"
-  />
+  <img src="https://raw.githubusercontent.com/Hilden202/Hilden202/output/snake.svg" 
+       alt="Snake animation"
+       width="800" />
 </p>
 
 ---
