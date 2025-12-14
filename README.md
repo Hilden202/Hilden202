@@ -61,7 +61,7 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 <h2 align="left">📈 Recent GitHub Activity</h2>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hilden202&theme=dracula&area=true&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hilden202&theme=react-dark&area=false&hide_border=true&line=9AE6B4&point=FFFFFF)
 
 ---
 
