@@ -70,7 +70,7 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Hilden202/Hilden202/output/snake.svg?update=1"
+    <img src="https://raw.githubusercontent.com/hilden202/hilden202/output/snake.svg" alt="Snake animation" />
     alt="Snake animation"
     width="800"
   />
