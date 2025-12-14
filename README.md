@@ -106,7 +106,9 @@ Git, GitHub, GitHub Actions, Docker, Azure
     <img height="200" src="https://hildenmedia.se/images/hilden_media_logo_meta.jpg" alt="HildenMedia logo"/>
   </a>
 </div>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hilden202.hilden202&"  />
+</div>
 ---
 
 <h2 align="left">✨ About me</h2>
@@ -115,11 +117,3 @@ Git, GitHub, GitHub Actions, Docker, Azure
 Outside of coding, I enjoy exploring physics, creating music, and experimenting with new ideas under the HildenMedia umbrella.<br>
 Always learning, always building.
 </p>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hilden202.hilden202&"  />
-</div>
-
----
