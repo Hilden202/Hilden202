@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  
+
 permissions:
   contents: write
 
@@ -16,8 +16,9 @@ jobs:
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
+          palette: dracula
           outputs: |
-            dist/snake.svg?palette=dracula
+            dist/snake.svg
 
       - name: push snake animation
         uses: crazy-max/ghaction-github-pages@v3
