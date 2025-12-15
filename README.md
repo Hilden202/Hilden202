@@ -13,33 +13,21 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 <ul>
   <li>
-    ❤️ <strong>
-      <a href="https://github.com/Hilden202/SarasBlogg"
-         target="_blank"
-         style="color: inherit; text-decoration: none;">
-        SarasBlogg
-      </a>
-    </strong> – Fullstack .NET project with API, PostgreSQL, roles, AI moderation and CI/CD
+    ❤️ <strong>SarasBlogg</strong>
+    <a href="https://github.com/Hilden202/SarasBlogg" target="_blank">&nbsp;</a>
+    – Fullstack .NET project with API, PostgreSQL, roles, AI moderation and CI/CD
   </li>
 
   <li>
-    🚀 <strong>
-      <a href="https://github.com/JojoSlice/BulletHell"
-         target="_blank"
-         style="color: inherit; text-decoration: none;">
-        BulletHell Space Shooter
-      </a>
-    </strong> – A MonoGame project with tests, configs, tools and clean architecture
+    🚀 <strong>BulletHell Space Shooter</strong>
+    <a href="https://github.com/JojoSlice/BulletHell" target="_blank">&nbsp;</a>
+    – A MonoGame project with tests, configs, tools and clean architecture
   </li>
 
   <li>
-    👻 <strong>
-      <a href="https://github.com/Hilden202/HildenMedia"
-         target="_blank"
-         style="color: inherit; text-decoration: none;">
-        HildenMedia
-      </a>
-    </strong> – My personal dev brand, logo system & upcoming site redesign
+    👻 <strong>HildenMedia</strong>
+    <a href="https://github.com/Hilden202/HildenMedia" target="_blank">&nbsp;</a>
+    – My personal dev brand, logo system & upcoming site redesign
   </li>
 
   <li>
