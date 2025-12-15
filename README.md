@@ -97,7 +97,7 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 <h2 align="left">🌐 Social & Links</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/patrik-hildenborg?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/patrik-hildenborg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
   </a>
   <a href="https://discord.gg/your-server" target="_blank">
