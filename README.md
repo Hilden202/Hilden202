@@ -114,3 +114,6 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 Outside of coding, I enjoy exploring physics, creating music, and experimenting with new ideas under the HildenMedia umbrella.<br>
 Always learning, always building.
 </p>
+
+---
+<sub>Profile layout draft inspired by profile-readme-generator.com</sub>
