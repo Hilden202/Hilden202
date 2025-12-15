@@ -99,7 +99,7 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 <!-- HildenMedia Logo -->
 <div align="center">
   <a href="https://hildenmedia.se" target="_blank">
-    <img height="200" src="https://hildenmedia.se/images/hilden_media_logo_meta.jpg" alt="HildenMedia logo"/>
+    <img height="200" src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/hilden_media_logo_meta.jpg" alt="HildenMedia logo"/>
   </a>
 </div>
 <div align="center">
