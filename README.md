@@ -8,13 +8,18 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 </p>
 
 ---
-
 <h2 align="left">🔧 What I'm working on right now</h2>
 
 <p align="left">
-• <strong>SarasBlogg</strong> – Fullstack .NET project with API, PostgreSQL, roles, AI moderation and CI/CD<br><br>
-• <strong>BulletHell Space Shooter</strong> – A MonoGame project with tests, configs, tools and clean architecture<br><br>
-• <strong>HildenMedia</strong> – My personal dev brand, logo system & upcoming site redesign<br><br>
+• <strong><a href="https://github.com/Hilden202/SarasBlogg" target="_blank">SarasBlogg</a></strong> – 
+Fullstack .NET project with API, PostgreSQL, roles, AI moderation and CI/CD<br><br>
+
+• <strong><a href="https://github.com/JojoSlice/BulletHell" target="_blank">BulletHell Space Shooter</a></strong> – 
+A MonoGame project with tests, configs, tools and clean architecture<br><br>
+
+• <strong><a href="https://github.com/Hilden202/HildenMedia" target="_blank">HildenMedia</a></strong> – 
+My personal dev brand, logo system & upcoming site redesign<br><br>
+
 • Experimenting with AI-driven developer agents & automation tools
 </p>
 
