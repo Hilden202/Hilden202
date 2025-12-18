@@ -13,8 +13,8 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 <ul>
   <li>
-    <a href="https://github.com/Hilden202/SarasBlogg" target="_blank">❤️</a>
-    <strong>SarasBlogg</strong> – Fullstack .NET project with API, PostgreSQL, roles, AI moderation and CI/CD
+    <a href="https://github.com/Hilden202/sarasblogg-workspace" target="_blank">❤️</a>
+    <strong>SarasBlogg</strong> – Fullstack .NET monorepo with Razor Pages frontend, separate API, PostgreSQL, role-based auth, AI moderation and CI/CD
   </li>
 
   <li>
