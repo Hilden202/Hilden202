@@ -13,25 +13,21 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 <ul>
   <li>
-    <a href="https://github.com/Hilden202/sarasblogg-workspace" target="_blank">❤️</a>
-    <strong>SarasBlogg</strong> – Fullstack .NET monorepo with Razor Pages frontend, separate API, PostgreSQL, role-based auth, AI moderation and CI/CD
-  </li>
-
-  <li>
-    <a href="https://github.com/JojoSlice/BulletHell" target="_blank">🚀</a>
-    <strong>BulletHell Space Shooter</strong> – A MonoGame project with tests, configs, tools and clean architecture
-  </li>
-
-  <li>
     <a href="https://github.com/Hilden202/HildenMedia" target="_blank">👻</a>
     <strong>HildenMedia</strong> – My personal dev brand, logo system & upcoming site redesign
   </li>
-
+  <li>
+    <a href="https://github.com/Hilden202/sarasblogg-workspace" target="_blank">❤️</a>
+    <strong>SarasBlogg</strong> – Fullstack .NET monorepo with Razor Pages frontend, separate API, PostgreSQL, role-based auth, AI moderation and CI/CD
+  </li>
   <li>
     <a href="https://github.com/Hilden202/kostplaneraren" target="_blank">🥗</a>
     <strong>Kostplaneraren</strong> – Frontend-focused web app consuming public food & nutrition APIs, with SEO, custom domain and GitHub Pages deployment
   </li>
-
+  <li>
+    <a href="https://github.com/JojoSlice/BulletHell" target="_blank">🚀</a>
+    <strong>BulletHell Space Shooter</strong> – A MonoGame project with tests, configs, tools and clean architecture
+  </li>
 </ul>
 
 ---
