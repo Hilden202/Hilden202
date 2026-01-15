@@ -28,8 +28,10 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
   </li>
 
   <li>
-    🤖 Experimenting with AI-driven developer agents & automation tools
+    <a href="https://github.com/Hilden202/kostplaneraren" target="_blank">🥗</a>
+    <strong>Kostplaneraren</strong> – Frontend-focused web app consuming public food & nutrition APIs, with SEO, custom domain and GitHub Pages deployment
   </li>
+
 </ul>
 
 ---
