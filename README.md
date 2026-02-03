@@ -24,6 +24,10 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
     <a href="https://github.com/Hilden202/kostplaneraren" target="_blank">🥗</a>
     <strong>Kostplaneraren</strong> – Frontend-focused web app consuming public food & nutrition APIs, with SEO, custom domain and GitHub Pages deployment
   </li>
+    <li>
+    <a href="https://github.com/Hilden202/tarot-app" target="_blank">🃏</a>
+    <strong>Tarot App</strong> – A creative SvelteKit MVP exploring UI state, animations and prompt-driven UX, deployed as a static app on GitHub Pages
+  </li>
   <li>
     <a href="https://github.com/JojoSlice/BulletHell" target="_blank">🚀</a>
     <strong>BulletHell Space Shooter</strong> – A MonoGame project with tests, configs, tools and clean architecture
