@@ -29,6 +29,10 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
     <strong>Tarot App</strong> – A creative SvelteKit MVP exploring UI state, animations and prompt-driven UX, deployed as a static app on GitHub Pages
   </li>
   <li>
+  <a href="https://github.com/Hilden202/veridict-frontend" target="_blank">🧠</a>
+  <strong>Veridict</strong> – AI-powered platform that analyzes and ranks websites based on real quality, with caching, data reuse and a growing knowledge base
+</li>
+  <li>
     <a href="https://github.com/JojoSlice/BulletHell" target="_blank">🚀</a>
     <strong>BulletHell Space Shooter</strong> – A MonoGame project with tests, configs, tools and clean architecture
   </li>
