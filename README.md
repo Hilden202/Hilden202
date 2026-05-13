@@ -11,6 +11,108 @@ Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 
 <h2 align="left">🔧 What I'm working on right now</h2>
 
+<!-- HildenMedia -->
+<div align="center">
+  <a href="https://github.com/Hilden202/HildenMedia" target="_blank">
+    <img
+      height="220"
+      src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/hildenmedia-banner.png"
+      alt="HildenMedia – Teknik med själ"
+    />
+  </a>
+</div>
+
+<p align="center">
+  👻 <strong>HildenMedia</strong> – Personal dev brand, ambient portfolio experience and creative tech universe
+</p>
+
+<br>
+
+<!-- SarasBlogg -->
+<div align="center">
+  <a href="https://github.com/Hilden202/sarasblogg-workspace" target="_blank">
+    <img
+      height="220"
+      src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/sarasblogg-banner.png"
+      alt="med Hjärtat som Kompass – SarasBlogg"
+    />
+  </a>
+</div>
+
+<p align="center">
+  ❤️ <strong>SarasBlogg</strong> – API-first .NET monorepo with Razor Pages, SvelteKit, PostgreSQL, AI moderation and CI/CD
+</p>
+
+<br>
+
+<!-- Kostplaneraren -->
+<div align="center">
+  <a href="https://github.com/Hilden202/Matplaneraren" target="_blank">
+    <img
+      height="220"
+      src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/kostplaneraren-banner.png"
+      alt="Kostplaneraren"
+    />
+  </a>
+</div>
+
+<p align="center">
+  🥗 <strong>Kostplaneraren</strong> – Nutrition-focused frontend app using Livsmedelsverket open food APIs
+</p>
+
+<br>
+
+<!-- Tarot -->
+<div align="center">
+  <a href="https://github.com/Hilden202/tarot-app" target="_blank">
+    <img
+      height="220"
+      src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/tarot-banner.png"
+      alt="Tarot App"
+    />
+  </a>
+</div>
+
+<p align="center">
+  🃏 <strong>Tarot App</strong> – SvelteKit experience with animated card draws, AI-generated interpretations and fallback prompting
+</p>
+
+<br>
+
+<!-- Veridict -->
+<div align="center">
+  <a href="https://github.com/Hilden202/veridict-frontend" target="_blank">
+    <img
+      height="220"
+      src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/Veridict-banner.png"
+      alt="Veridict"
+    />
+  </a>
+</div>
+
+<p align="center">
+  🧠 <strong>Veridict</strong> – AI-powered platform analyzing websites through quality, caching and knowledge reuse
+</p>
+
+<br>
+
+<!-- BulletHell -->
+<div align="center">
+  <a href="https://github.com/JojoSlice/BulletHell" target="_blank">
+    <img
+      height="220"
+      src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/bullethell-banner.png"
+      alt="BulletHell Space Shooter"
+    />
+  </a>
+</div>
+
+<p align="center">
+  🚀 <strong>BulletHell Space Shooter</strong> – MonoGame project with clean architecture, tooling and gameplay systems
+</p>
+
+<h2 align="left">🔧 What I'm working on right now</h2>
+
 <ul>
   <li>
     <a href="https://github.com/Hilden202/HildenMedia" target="_blank">👻</a>
