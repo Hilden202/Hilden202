@@ -72,7 +72,7 @@ AI-powered platform analyzing websites through quality, caching and knowledge re
 ---
 
 ### 🚀 BulletHell Space Shooter
-MonoGame project with clean architecture, tooling and gameplay systems.
+MonoGame arcade shooter focused on gameplay systems, tooling and clean architecture.
 
 <a href="https://github.com/JojoSlice/BulletHell">
   <img
