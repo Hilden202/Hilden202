@@ -81,35 +81,6 @@ MonoGame project with clean architecture, tooling and gameplay systems.
   />
 </a>
 
-<h2 align="left">🔧 What I'm working on right now</h2>
-
-<ul>
-  <li>
-    <a href="https://github.com/Hilden202/HildenMedia" target="_blank">👻</a>
-    <strong>HildenMedia</strong> – My personal dev brand, logo system & upcoming site redesign
-  </li>
-  <li>
-    <a href="https://github.com/Hilden202/sarasblogg-workspace" target="_blank">❤️</a>
-    <strong>SarasBlogg</strong> – Fullstack .NET monorepo with Razor Pages frontend, separate API, PostgreSQL, role-based auth, AI moderation and CI/CD
-  </li>
-  <li>
-    <a href="https://github.com/Hilden202/kostplaneraren" target="_blank">🥗</a>
-    <strong>Kostplaneraren</strong> – Frontend-focused web app consuming public food & nutrition APIs, with SEO, custom domain and GitHub Pages deployment
-  </li>
-    <li>
-    <a href="https://github.com/Hilden202/tarot-app" target="_blank">🃏</a>
-    <strong>Tarot App</strong> – A creative SvelteKit MVP exploring UI state, animations and prompt-driven UX, deployed as a static app on GitHub Pages
-  </li>
-  <li>
-  <a href="https://github.com/Hilden202/veridict-frontend" target="_blank">🧠</a>
-  <strong>Veridict</strong> – AI-powered platform that analyzes and ranks websites based on real quality, with caching, data reuse and a growing knowledge base
-</li>
-  <li>
-    <a href="https://github.com/JojoSlice/BulletHell" target="_blank">🚀</a>
-    <strong>BulletHell Space Shooter</strong> – A MonoGame project with tests, configs, tools and clean architecture
-  </li>
-</ul>
-
 ---
 
 <h2 align="left">🛠️ Tech Stack</h2>
