@@ -76,7 +76,7 @@ MonoGame project with clean architecture, tooling and gameplay systems.
 
 <a href="https://github.com/JojoSlice/BulletHell">
   <img
-    src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/bullethell-banner.png"
+    src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/bullet-hell-banner.png"
     alt="BulletHell Space Shooter"
   />
 </a>
