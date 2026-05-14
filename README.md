@@ -71,6 +71,18 @@ AI-powered platform analyzing websites through quality, caching and knowledge re
 
 ---
 
+### 🎙️ Hilden Visioner
+Podcast om teknik, AI, utveckling och framtidens digitala landskap.
+
+<a href="https://github.com/Hilden202/hilden-whispers">
+  <img
+    src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/hilden-podd-banner.png"
+    alt="Hilden Visioner"
+  />
+</a>
+
+---
+
 ### 🚀 BulletHell Space Shooter
 MonoGame arcade shooter focused on gameplay systems, tooling and clean architecture.
 
