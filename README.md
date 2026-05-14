@@ -72,7 +72,7 @@ AI-powered platform analyzing websites through quality, caching and knowledge re
 ---
 
 ### 🎙️ Hilden Visioner
-En utforskande podcast om tid, verklighet, information och medvetande — byggd kring Patrik Hildenborgs egna tankeexperiment och modeller där fysik, filosofi och mänsklig upplevelse möts.
+En utforskande podcast om tid, verklighet, information och medvetande — där fysik, filosofi och tankeexperiment möts.
 
 <a href="https://github.com/Hilden202/hilden-whispers">
   <img
