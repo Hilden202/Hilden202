@@ -1,8 +1,8 @@
 <h2 align="left">👋 Hi, I'm Patrik — builder of things</h2>
-<h4 align="left">.NET developer • Fullstack • DevOps explorer • Creator of HildenMedia</h4>
+<h4 align="left">.NET developer • Fullstack • System thinker • Creator of HildenMedia</h4>
 
 <p align="left">
-System developer student turning real ideas into real software.<br>
+System developer focused on turning real ideas into real software.<br>
 I build fullstack .NET solutions, APIs, automations, and personal tools — always learning, always improving.<br>
 Currently crafting my own ecosystem of apps under <strong>HildenMedia</strong>.
 </p>
@@ -113,7 +113,8 @@ MonoGame arcade shooter focused on gameplay systems, tooling and clean architect
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 <img src="https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <br><br>
