@@ -35,6 +35,21 @@ API-first .NET monorepo with Razor Pages, SvelteKit, PostgreSQL, AI moderation a
 
 ---
 
+### 💰 BudgetBuddy
+
+Degree project built with SvelteKit, .NET Minimal API and PostgreSQL.
+
+Designed to simplify personal budgeting through clear workflows, visualizations and a feature-based architecture. The project focuses on JWT authentication, API contracts, state management and turning complex financial concepts into a simple user experience.
+
+<a href="https://github.com/Hilden202/BudgetBuddy">
+  <img
+    src="https://raw.githubusercontent.com/Hilden202/HildenMedia/main/images/budgetbuddy-banner.png"
+    alt="BudgetBuddy"
+  />
+</a>
+
+---
+
 ### 🥗 Kostplaneraren
 Nutrition-focused frontend app using Livsmedelsverket open food APIs.
 
